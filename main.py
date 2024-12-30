@@ -1,4 +1,4 @@
-#https://docs.google.com/spreadsheets/d/1zT6bIv6JRV-yVrbYryKk6LuSbpgYSX3KVsckIqVhrWU/edit?usp=sharing
+# https://docs.google.com/spreadsheets/d/1zT6bIv6JRV-yVrbYryKk6LuSbpgYSX3KVsckIqVhrWU/edit?usp=sharing
 
 import random
 
